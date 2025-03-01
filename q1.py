@@ -18,5 +18,5 @@ if st. button("Generate Resume"):
       st.error("error is generating")
     else:
       st.write("resume is generated")
-
+        download_file=123
 
